@@ -1,2 +1,0 @@
-# MultiModule
-MultiModule Exercise
